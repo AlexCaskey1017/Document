@@ -1,0 +1,11 @@
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/bin/Debug/netcoreapp2.0/documentChallenge.deps.json
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/bin/Debug/netcoreapp2.0/documentChallenge.runtimeconfig.json
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/bin/Debug/netcoreapp2.0/documentChallenge.runtimeconfig.dev.json
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/bin/Debug/netcoreapp2.0/documentChallenge.dll
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/bin/Debug/netcoreapp2.0/documentChallenge.pdb
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/obj/Debug/netcoreapp2.0/documentChallenge.csprojAssemblyReference.cache
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/obj/Debug/netcoreapp2.0/documentChallenge.csproj.CoreCompileInputs.cache
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/obj/Debug/netcoreapp2.0/documentChallenge.AssemblyInfoInputs.cache
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/obj/Debug/netcoreapp2.0/documentChallenge.AssemblyInfo.cs
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/obj/Debug/netcoreapp2.0/documentChallenge.dll
+/Users/alexcaskey/Documents/C# Projects/documentChallengeSolution/documentChallenge/obj/Debug/netcoreapp2.0/documentChallenge.pdb
